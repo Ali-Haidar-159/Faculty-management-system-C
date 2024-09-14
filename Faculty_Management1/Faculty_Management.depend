@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1716881722 source:c:\users\we\music\faculty_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"signup.h"
+	"login.h"
+	"forgetpassword.h"
+	"course.h"
+
+1716881424 source:c:\users\we\music\faculty_management\signup.c
+	<stdio.h>
+	<string.h>
+	"signup.h"
+
+1716881384 c:\users\we\music\faculty_management\signup.h
+
+1716891959 source:c:\users\we\music\faculty_management\advising.c
+	<stdio.h>
+	"advising.h"
+	"forgetpassword.h"
+
+1716881667 c:\users\we\music\faculty_management\advising.h
+
+1716881549 c:\users\we\music\faculty_management\forgetpassword.h
+
+1716890120 source:c:\users\we\music\faculty_management\course.c
+	<stdio.h>
+	"course.h"
+	"login.h"
+
+1716881609 c:\users\we\music\faculty_management\course.h
+
+1716881467 c:\users\we\music\faculty_management\login.h
+
+1716881581 source:c:\users\we\music\faculty_management\forgetpassword.c
+	<stdio.h>
+	<string.h>
+	"forgetpassword.h"
+
+1716889786 source:c:\users\we\music\faculty_management\login.c
+	<stdio.h>
+	"login.h"
+	"signup.h"
+	"course.h"
+	"advising.h"
+
